@@ -1,7 +1,7 @@
 # Streaming-Data-Ingestion-Pipeline-for-Ecommerce-Payments-Solutions
 
 ## Overview
-  This project involves creating a real-time data ingestion pipeline to manage orders and payments data. The system ensures data integrity through deduplication and handles out-of-order data by using a Dead       Letter Queue (DLQ) for unmatched records.
+  This project involves creating a real-time data ingestion pipeline to manage orders and payments data. The system ensures data integrity through deduplication and handles out-of-order data by using a Dead Letter Queue (DLQ) for unmatched records.
 
 ## Features
 - Real-time Data Ingestion: Uses GCP pub/sub for streaming orders and payments data.
@@ -44,5 +44,7 @@
 
 
 ## Architecture Diagram
+
+![architecture](https://github.com/user-attachments/assets/b0d6f0bd-d222-4067-81c5-4a460b30677c)
 
 
