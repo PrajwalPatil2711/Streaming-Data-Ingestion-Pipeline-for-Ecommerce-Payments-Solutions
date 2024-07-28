@@ -45,5 +45,4 @@
 
 ## Architecture Daigram
 
-![Architecture](architecture.png)
 
